@@ -1,0 +1,13 @@
+c:\users\karina\documents\visual studio 2013\Projects\CadastroSimples\CadastroSimples\bin\Debug\CadastroSimples.exe.config
+c:\users\karina\documents\visual studio 2013\Projects\CadastroSimples\CadastroSimples\bin\Debug\CadastroSimples.exe
+c:\users\karina\documents\visual studio 2013\Projects\CadastroSimples\CadastroSimples\bin\Debug\CadastroSimples.pdb
+c:\users\karina\documents\visual studio 2013\Projects\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.csprojResolveAssemblyReference.cache
+c:\users\karina\documents\visual studio 2013\Projects\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.Form1.resources
+c:\users\karina\documents\visual studio 2013\Projects\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.Properties.Resources.resources
+c:\users\karina\documents\visual studio 2013\Projects\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.csproj.GenerateResource.Cache
+c:\users\karina\documents\visual studio 2013\Projects\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.exe
+c:\users\karina\documents\visual studio 2013\Projects\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.pdb
+C:\Users\karina\Documents\Visual Studio 2013\Projects\CadastroSimples\CadastroSimples\bin\Debug\CadastroSimples.exe.manifest
+C:\Users\karina\Documents\Visual Studio 2013\Projects\CadastroSimples\CadastroSimples\bin\Debug\CadastroSimples.application
+C:\Users\karina\Documents\Visual Studio 2013\Projects\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.exe.manifest
+C:\Users\karina\Documents\Visual Studio 2013\Projects\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.application
